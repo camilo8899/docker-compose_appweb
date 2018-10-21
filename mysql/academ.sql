@@ -39,11 +39,11 @@ CREATE TABLE `login` (
 -- Volcado de datos para la tabla `login`
 --
 
-INSERT INTO `login` (`id`, `user`, `password`, `email`, `pasadmin`, `rol`) VALUES
-(1, 'Administrador', '', 'admin@gmail.com', '123456', 1),
-(2, 'Joseph', '12345', 'josephg059@gmail.com', '', 2),
-(4, 'joseph', '12345', 'joseph@gmail.com', '', 2),
-(5, 'paul', '1234', 'paul@gmail.com', '', 2);
+--INSERT INTO `login` (`id`, `user`, `password`, `email`, `pasadmin`, `rol`) VALUES
+--(1, 'Administrador', '', 'admin@gmail.com', '123456', 1),
+--(2, 'Joseph', '12345', 'josephg059@gmail.com', '', 2),
+--(4, 'joseph', '12345', 'joseph@gmail.com', '', 2),
+--(5, 'paul', '1234', 'paul@gmail.com', '', 2);
 
 --
 -- Índices para tablas volcadas
